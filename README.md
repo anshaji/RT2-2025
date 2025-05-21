@@ -4,8 +4,8 @@ Repository for Research Transperancy and Reproducibility Training (RT2) Particip
 
 **Thursday May 22**
 
-Intro to Version Control
-Intro to Dynamic Documents
+Intro to Version Control 
+
 Before this meeting please sure sure you have installed the following software:
 
 R (update/reinstall to latest version)
